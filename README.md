@@ -1,5 +1,5 @@
 ﻿# 一些webui组件
- 1212
+ 12
 为什么要重复造轮子呢?  
 其意义不再于造了更劣质的轮子,而是熟悉造法.  
 [Document](https://mirrortom.date/mirrorui/index.html)  
